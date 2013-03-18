@@ -1,0 +1,110 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+F:\myPrBackup\Instancing\sharedInst2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\Instancing\sharedInst2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\Instancing\sharedInst2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\myPrBackup\Instancing\sharedInst2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+F:\myPrBackup\Instancing\sharedInst2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+F:\myPrBackup\Instancing\sharedInst2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+F:\myPrBackup\Instancing\sharedInst2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\Instancing\sharedInst2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\Instancing\sharedInst2\02\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\Instancing\sharedInst2\02\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\Instancing\sharedInst2\02\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\Instancing\sharedInst2\02\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\Instancing\sharedInst2\02\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\myPrBackup\Instancing\sharedInst2\02\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+F:\myPrBackup\Instancing\sharedInst2\02\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+F:\myPrBackup\Instancing\sharedInst2\02\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\01\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\01\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\01\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\01\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\HWInstancing\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+F:\myPrBackup\Instancing\backup\test\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\Instancing\backup\test\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\Instancing\backup\test\HWInstancing\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\myPrBackup\Instancing\backup\test\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+F:\myPrBackup\Instancing\backup\test\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+F:\myPrBackup\Instancing\backup\test\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+F:\myPrBackup\Instancing\backup\test\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\Instancing\backup\test\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\04\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\04\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\04\HWInstancing\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\myPrBackup\MarsInstancing\04\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+F:\myPrBackup\MarsInstancing\04\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+F:\myPrBackup\MarsInstancing\04\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+F:\myPrBackup\MarsInstancing\04\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\04\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\07-29.09.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\07-29.09.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\test\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\test\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\test\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\test\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\test\HWInstancing\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\myPrBackup\MarsInstancing\test\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+F:\myPrBackup\MarsInstancing\test\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+F:\myPrBackup\MarsInstancing\09-01.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\09-01.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\test\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+c:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\TEST\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\TEST\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\TEST\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\TEST\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\TEST\HWInstancing\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\TEST\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+c:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\TEST\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+c:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\TEST\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+F:\myPrBackup\MarsInstancing\13-05.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\13-05.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\test\backUp\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\test\backUp\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\test\backUp\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\test\backUp\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\test\backUp\HWInstancing\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\myPrBackup\MarsInstancing\test\backUp\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+F:\myPrBackup\MarsInstancing\test\backUp\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+F:\myPrBackup\MarsInstancing\test\backUp\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+F:\myPrBackup\MarsInstancing\16-07.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\16-07.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\16-07.10.09\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\16-07.10.09\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\16-07.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\myPrBackup\MarsInstancing\16-07.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+F:\myPrBackup\MarsInstancing\16-07.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+F:\myPrBackup\MarsInstancing\16-07.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+F:\myPrBackup\MarsInstancing\DUBNA -09.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\DUBNA -09.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\DUBNA -09.10.09\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\myPrBackup\MarsInstancing\DUBNA -09.10.09\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\myPrBackup\MarsInstancing\DUBNA -09.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\myPrBackup\MarsInstancing\DUBNA -09.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+F:\myPrBackup\MarsInstancing\DUBNA -09.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+F:\myPrBackup\MarsInstancing\DUBNA -09.10.09\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\HWInstancing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\HWInstancing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\HWInstancing\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.Game.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\test\HWInstancing\WindowsFormsApplication1\obj\Debug\MarsDX.csproj.GenerateResource.Cache
